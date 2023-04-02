@@ -2,3 +2,9 @@
 int x = 2;
 int y = 4;
 printf("HELLOWORLD");
+
+#include<stdio.h>
+int a = 2;
+int b = 22;
+sum = a + b ;
+printf("addition of 2 numbers");
